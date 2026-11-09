@@ -9,7 +9,7 @@ with st.sidebar:
 
   # Imagen (puedes reemplazar la ruta o URL por la imagen del logo)
   st.image(
-      "https://researchers.uss.cl/en/organisations/universidad-san-sebasti%C3%A1n/",
+      "https://share.google/fa9tqfZ18BlkCdTG3",
       width=200,
   )
 
