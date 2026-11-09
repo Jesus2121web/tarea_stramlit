@@ -1,6 +1,5 @@
 import streamlit as st
 
-# ==========================================
 # BARRA LATERAL
 # ==========================================
 with st.sidebar:
@@ -10,7 +9,7 @@ with st.sidebar:
 
   # Imagen (puedes reemplazar la ruta o URL por la imagen del logo)
   st.image(
-      "https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Universidad_San_Sebasti%C3%A1n.png",
+      "https://researchers.uss.cl/en/organisations/universidad-san-sebasti%C3%A1n/",
       width=200,
   )
 
@@ -21,7 +20,6 @@ with st.sidebar:
   # Campo de texto y su respectiva salida
   texto_barra = st.text_input("Escribe algo en la barra:")
   st.write(f"Escribiste en la barra: {texto_barra}")
-
 
 # ==========================================
 # ÁREA PRINCIPAL
