@@ -9,7 +9,7 @@ with st.sidebar:
 
   # Imagen (puedes reemplazar la ruta o URL por la imagen del logo)
   st.image(
-      "logo_uss.jpg",
+      "logouss.jpg",
       width=200,
   )
 
