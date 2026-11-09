@@ -31,7 +31,7 @@ st.text("Esta es una aplicación simple")
 
 # Imagen en el área principal
 st.image(
-    "https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Universidad_San_Sebasti%C3%A1n.png",
+    "logouss.jpg",
     width=300,
 )
 
